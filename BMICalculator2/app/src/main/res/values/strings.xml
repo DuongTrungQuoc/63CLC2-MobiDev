@@ -1,0 +1,7 @@
+<resources>
+    <string name="BMI_Calculator">BMI Calculator</string>
+    <string name="Calculator">Calculator</string>
+    <string name="Enter_your_weight_in_Kg">Enter your weight in Kg</string>
+    <string name="Enter_your_height_in_Kg">Enter your height in Kg</string>
+    <string name="This_is_your_Result">This is your Result</string>
+</resources>

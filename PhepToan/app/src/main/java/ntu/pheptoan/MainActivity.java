@@ -93,7 +93,5 @@ public class MainActivity extends AppCompatActivity {
         float Thuong = soA / soB;
 
         String chuoiKQ = String.valueOf(Thuong);
-
-
     }
 }
