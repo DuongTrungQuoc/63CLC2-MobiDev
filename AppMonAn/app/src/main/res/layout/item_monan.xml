@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="52dp"
+    android:padding="1dp"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="#D3DA8E"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ImageView
+        android:id="@+id/imAnhDaiDien"
+        android:layout_width="50dp"
+        android:background="@color/teal_200"
+        android:layout_height="50dp"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:paddingLeft="2dp"
+        android:layout_height="50dp">
+    <TextView
+        android:id="@+id/tvTenMonAn"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        android:text="Mon thu nhat"
+        />
+     <TextView
+         android:layout_width="match_parent"
+         android:text="200000d"
+         android:textSize="10dp"
+         android:layout_height="15dp"/>
+     <TextView
+         android:layout_width="match_parent"
+         android:text="Noi dung mo ta"
+         android:textSize="10dp"
+         android:layout_height="15dp"/>
+    </LinearLayout>
+</LinearLayout>
