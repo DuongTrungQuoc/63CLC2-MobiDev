@@ -8,7 +8,29 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string-array name="phuong">
+        <item>Phương Sơn</item>
+        <item>Vĩnh Hải</item>
+        <item>Vĩnh Thái</item>
 
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Phở bò</item>
+        <item>Phở gà</item>
+        <item>Phở gân</item>
+        <item>Nui</item>
+        <item>Cơm gà</item>
+        <item>Cháo gà</item>
+        <item>Cơm sườn</item>
+        <item>Cơm chiên trứng</item>
+        <item>Cơm chiên muối é</item>
+    </string-array>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

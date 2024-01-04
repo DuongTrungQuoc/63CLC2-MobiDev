@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "320721661820",
+    "firebase_url": "https://foodapp-70caa-default-rtdb.firebaseio.com",
+    "project_id": "foodapp-70caa",
+    "storage_bucket": "foodapp-70caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320721661820:android:35118efe13ccee58323ef9",
+        "android_client_info": {
+          "package_name": "com.example.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320721661820-8hn5qfnk2e0bmja9nkpsil619nh69r01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz11X0PGtCULn7RAly8g0urjqxBsA1-rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320721661820-8hn5qfnk2e0bmja9nkpsil619nh69r01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320721661820:android:a64df1c011a8aa49323ef9",
+        "android_client_info": {
+          "package_name": "my.duancuoiki_foodapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320721661820-8hn5qfnk2e0bmja9nkpsil619nh69r01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz11X0PGtCULn7RAly8g0urjqxBsA1-rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320721661820-8hn5qfnk2e0bmja9nkpsil619nh69r01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320721661820:android:567ea1ff72404d12323ef9",
+        "android_client_info": {
+          "package_name": "my.foodon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320721661820-8hn5qfnk2e0bmja9nkpsil619nh69r01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz11X0PGtCULn7RAly8g0urjqxBsA1-rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320721661820-8hn5qfnk2e0bmja9nkpsil619nh69r01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

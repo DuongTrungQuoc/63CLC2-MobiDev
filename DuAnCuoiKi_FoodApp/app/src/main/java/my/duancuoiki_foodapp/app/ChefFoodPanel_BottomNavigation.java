@@ -1,15 +1,14 @@
 package my.duancuoiki_foodapp.app;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.annotation.Nullable;
+
 import android.os.Bundle;
 
-public class Login extends AppCompatActivity {
-
+public class ChefFoodPanel_BottomNavigation extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_chef_food_panel_bottom_navigation);
     }
 }

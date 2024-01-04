@@ -13,6 +13,7 @@ import android.widget.ImageView;
 public class MainMenu extends AppCompatActivity {
     Button signinemail,signinphone,signup;
     ImageView bgimage;
+    View view;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -63,7 +64,16 @@ public class MainMenu extends AppCompatActivity {
         signinemail=(Button)findViewById(R.id.SignwithEmail);
         signinphone=(Button)findViewById(R.id.SignwithPhone);
         signup=(Button)findViewById(R.id.Signup);
+        view=(View) findViewById(R.id.imageView3);
+        view.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent view = new Intent(MainMenu.this,CustomerFoofPanel_BottomNavigation.class);
 
+                startActivity(view);
+                finish();
+            }
+        });
         signinemail.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

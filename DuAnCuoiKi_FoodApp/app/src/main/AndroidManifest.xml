@@ -13,6 +13,12 @@
         android:theme="@style/Theme.DuAnCuoiKi_FoodApp"
         tools:targetApi="31">
         <activity
+            android:name=".ChefFoodPanel_BottomNavigation"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerFoofPanel_BottomNavigation"
+            android:exported="false" />
+        <activity
             android:name=".Delivery_Registration"
             android:exported="false" />
         <activity
